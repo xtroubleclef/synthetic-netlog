@@ -1,0 +1,20 @@
+{
+  "total_entries": 19643,
+  "normal_count": 19000,
+  "anomaly_count": 643,
+  "anomaly_rate": 0.0327,
+  "anomaly_types": {
+    "volume": 333,
+    "beaconing": 160,
+    "portscan": 150
+  },
+  "normal_bytes_mean": 1512.1,
+  "normal_bytes_max": 5314,
+  "anomaly_bytes_mean": 54248.0,
+  "anomaly_bytes_max": 149128,
+  "unique_src_ips": 762,
+  "unique_dst_ips": 791,
+  "unique_ports": 151,
+  "time_start": "2024-01-01T00:00:00Z",
+  "time_end": "2024-01-03T23:59:59Z"
+}
