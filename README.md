@@ -96,7 +96,7 @@ If you use this dataset or generator in your research, please cite:
 
 ```
 Rosario, A.P.S. (2026). Synthetic Network Log Dataset for Anomaly Detection Benchmarking.
-Zenodo. [https://doi.org/[DOI]](https://doi.org/10.5281/zenodo.19465062)
+Zenodo. https://doi.org/10.5281/zenodo.19465062
 ```
 
 ## License
