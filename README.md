@@ -95,11 +95,9 @@ Traffic volume follows a realistic diurnal pattern: business hours (08:00–18:0
 If you use this dataset or generator in your research, please cite:
 
 ```
-Rosario, A. (2026). Synthetic Network Log Dataset for Anomaly Detection Benchmarking.
-Zenodo. https://doi.org/[DOI]
+Rosario, A.P.S. (2026). Synthetic Network Log Dataset for Anomaly Detection Benchmarking.
+Zenodo. [https://doi.org/[DOI]](https://doi.org/10.5281/zenodo.19465062)
 ```
-
-*(DOI will be updated upon Zenodo deposit)*
 
 ## License
 
